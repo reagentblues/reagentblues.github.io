@@ -1,0 +1,10 @@
+baseURL = 'https://a-sethi.github.io/reagentblues/'
+languageCode = 'en-us'
+title = 'Aaftaab Sethi'
+theme = 'PaperMod'
+
+[params]
+defaultTheme = "auto"
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
